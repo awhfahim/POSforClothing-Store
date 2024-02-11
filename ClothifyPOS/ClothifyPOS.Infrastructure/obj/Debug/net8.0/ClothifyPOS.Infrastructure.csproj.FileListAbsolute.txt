@@ -1,0 +1,17 @@
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\bin\Debug\net8.0\ClothifyPOS.Infrastructure.deps.json
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\bin\Debug\net8.0\ClothifyPOS.Infrastructure.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\bin\Debug\net8.0\ClothifyPOS.Infrastructure.pdb
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\bin\Debug\net8.0\ClothifyPOS.Application.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\bin\Debug\net8.0\ClothifyPOS.Domain.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\bin\Debug\net8.0\ClothifyPOS.Application.pdb
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\bin\Debug\net8.0\ClothifyPOS.Domain.pdb
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\obj\Debug\net8.0\ClothifyPOS.Infrastructure.csproj.AssemblyReference.cache
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\obj\Debug\net8.0\ClothifyPOS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\obj\Debug\net8.0\ClothifyPOS.Infrastructure.AssemblyInfoInputs.cache
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\obj\Debug\net8.0\ClothifyPOS.Infrastructure.AssemblyInfo.cs
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\obj\Debug\net8.0\ClothifyPOS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\obj\Debug\net8.0\ClothifyPOS.Infrastructure.csproj.CopyComplete
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\obj\Debug\net8.0\ClothifyPOS.Infrastructure.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\obj\Debug\net8.0\refint\ClothifyPOS.Infrastructure.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\obj\Debug\net8.0\ClothifyPOS.Infrastructure.pdb
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Infrastructure\obj\Debug\net8.0\ref\ClothifyPOS.Infrastructure.dll

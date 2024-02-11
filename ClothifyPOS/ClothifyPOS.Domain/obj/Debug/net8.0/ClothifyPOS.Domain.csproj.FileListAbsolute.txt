@@ -1,0 +1,11 @@
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\bin\Debug\net8.0\ClothifyPOS.Domain.deps.json
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\bin\Debug\net8.0\ClothifyPOS.Domain.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\bin\Debug\net8.0\ClothifyPOS.Domain.pdb
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\obj\Debug\net8.0\ClothifyPOS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\obj\Debug\net8.0\ClothifyPOS.Domain.AssemblyInfoInputs.cache
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\obj\Debug\net8.0\ClothifyPOS.Domain.AssemblyInfo.cs
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\obj\Debug\net8.0\ClothifyPOS.Domain.csproj.CoreCompileInputs.cache
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\obj\Debug\net8.0\ClothifyPOS.Domain.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\obj\Debug\net8.0\refint\ClothifyPOS.Domain.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\obj\Debug\net8.0\ClothifyPOS.Domain.pdb
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Domain\obj\Debug\net8.0\ref\ClothifyPOS.Domain.dll

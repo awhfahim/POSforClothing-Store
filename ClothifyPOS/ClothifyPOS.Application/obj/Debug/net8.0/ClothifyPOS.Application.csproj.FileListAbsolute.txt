@@ -1,0 +1,15 @@
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\bin\Debug\net8.0\ClothifyPOS.Application.deps.json
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\bin\Debug\net8.0\ClothifyPOS.Application.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\bin\Debug\net8.0\ClothifyPOS.Application.pdb
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\bin\Debug\net8.0\ClothifyPOS.Domain.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\bin\Debug\net8.0\ClothifyPOS.Domain.pdb
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\obj\Debug\net8.0\ClothifyPOS.Application.csproj.AssemblyReference.cache
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\obj\Debug\net8.0\ClothifyPOS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\obj\Debug\net8.0\ClothifyPOS.Application.AssemblyInfoInputs.cache
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\obj\Debug\net8.0\ClothifyPOS.Application.AssemblyInfo.cs
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\obj\Debug\net8.0\ClothifyPOS.Application.csproj.CoreCompileInputs.cache
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\obj\Debug\net8.0\ClothifyPOS.Application.csproj.CopyComplete
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\obj\Debug\net8.0\ClothifyPOS.Application.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\obj\Debug\net8.0\refint\ClothifyPOS.Application.dll
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\obj\Debug\net8.0\ClothifyPOS.Application.pdb
+D:\Github Repos\POSforClothing-Store\ClothifyPOS\ClothifyPOS.Application\obj\Debug\net8.0\ref\ClothifyPOS.Application.dll

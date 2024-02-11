@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XlpvtT3ikFUByhHas9UWOuZLy1jS5FegTH04HJ1Eu85pYPEGPjMuaou3yS11cdcg8UGpqNZC0OyIudNGB9a6w==",
+  "success": true,
+  "projectFilePath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Application\\ClothifyPOS.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fahim\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fahim\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Fahim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fahim\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

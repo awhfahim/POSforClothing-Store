@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Web\\ClothifyPOS.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Application\\ClothifyPOS.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Application\\ClothifyPOS.Application.csproj",
+        "projectName": "ClothifyPOS.Application",
+        "projectPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Application\\ClothifyPOS.Application.csproj",
+        "packagesPath": "C:\\Users\\Fahim\\.nuget\\packages\\",
+        "outputPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Domain\\ClothifyPOS.Domain.csproj": {
+                "projectPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Domain\\ClothifyPOS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Domain\\ClothifyPOS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Domain\\ClothifyPOS.Domain.csproj",
+        "projectName": "ClothifyPOS.Domain",
+        "projectPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Domain\\ClothifyPOS.Domain.csproj",
+        "packagesPath": "C:\\Users\\Fahim\\.nuget\\packages\\",
+        "outputPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Infrastructure\\ClothifyPOS.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Infrastructure\\ClothifyPOS.Infrastructure.csproj",
+        "projectName": "ClothifyPOS.Infrastructure",
+        "projectPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Infrastructure\\ClothifyPOS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Fahim\\.nuget\\packages\\",
+        "outputPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Application\\ClothifyPOS.Application.csproj": {
+                "projectPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Application\\ClothifyPOS.Application.csproj"
+              },
+              "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Domain\\ClothifyPOS.Domain.csproj": {
+                "projectPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Domain\\ClothifyPOS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Web\\ClothifyPOS.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Web\\ClothifyPOS.Web.csproj",
+        "projectName": "ClothifyPOS.Web",
+        "projectPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Web\\ClothifyPOS.Web.csproj",
+        "packagesPath": "C:\\Users\\Fahim\\.nuget\\packages\\",
+        "outputPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Application\\ClothifyPOS.Application.csproj": {
+                "projectPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Application\\ClothifyPOS.Application.csproj"
+              },
+              "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Infrastructure\\ClothifyPOS.Infrastructure.csproj": {
+                "projectPath": "D:\\Github Repos\\POSforClothing-Store\\ClothifyPOS\\ClothifyPOS.Infrastructure\\ClothifyPOS.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
